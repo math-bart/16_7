@@ -1,0 +1,24 @@
+.TodoApp {
+    background-image: url('https://image.freepik.com/free-vector/modern-technological-elements-with-transparent-background_1035-7108.jpg');
+    color: #4B0082;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    width: 97vw;
+    height: 97vh; 
+}
+
+.TodoApp h3 {
+	color: #555;
+	text-align: center;
+}
+
+.TodoApp h1 {
+	font-size: 45px;
+	line-height: 30px;
+	font-family: 'Pacifico', cursive;
+	font-weight: 400;
+}
